@@ -1,32 +1,69 @@
-# app-devv
-My first repository
+# My Favorite Movie: Avengers: Age of Ultron
 
-Hello! Welcome to my project space. 🎉
+![Avengers: Age of Ultron Poster](https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg)
+
+## Overview
+
+**Avengers: Age of Ultron** is a 2015 superhero film directed by **Joss Whedon**. The Avengers face *Ultron*, an artificial intelligence that decides the best way to save the world is to wipe out humanity.
+
+## Main Characters
+
+- Iron Man
+
+- Captain America
+
+- Thor
+
+- Hulk
+
+- Black Widow
+
+- Hawkeye
+
+- Ultron
+
+- Vision
+
+## Top 3 Scenes
+
+1. The opening assault on the Hydra fortress
+
+2. The Hulk vs. Hulkbuster fight
+
+3. The final battle in Sokovia
+
+## Why I Like It
+> "There are no strings on me."
+
+The movie mixes **epic action**, ~~boring~~ *funny* team moments, and a story about **creating something you can't control**.
+
+## Quick Facts
+
+| Detail | Info |
+
+|--------|------|
+
+| Genre | Superhero / Action |
+
+| Director | Joss Whedon |
+
+| Release Year | 2015 |
+
+| Studio | Marvel Studios |
+
+## Watch Checklist
+
+- [x] Watched in cinema
+
+- [x] Watched at home
+
+- [ ] Rewatch the whole Avengers saga
+
+## Code Snippet
+
+Inline code: `watch --movie "Avengers: Age of Ultron"`
 
 ---
 
-## 🎬 My Favorite Series: *Maria Clara at Ibarra*
-
-**Genre:** Historical Drama / Period Adaptation  
-**Synopsis:** Isang makabagong serye na hango sa mga nobelang *Noli Me Tangere* at *El Filibusterismo* ni Dr. Jose Rizal. Ipinapakita nito ang buhay sa Pilipinas noong panahon ng Kastila — pag-ibig, pagtataksil, kawalan ng katarungan, at pagbangon ng damdaming makabayan.
-
----
-
-### 🧑‍🤝‍🧑 Favorite Character: Maria Clara
-
-![Maria Clara at Ibarra](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marie_Clara_Lagman_as_Maria_Clara.jpg/320px-Marie_Clara_Lagman_as_Maria_Clara.jpg)
-
-- **Ginampanan ni:** Barbie Forteza
-- **Tungkol sa kanya:** Si Maria Clara ay lumaki sa pag-iingat at pagmamahal, ngunit mayroong matinding tapang sa loob. Sa kabila ng mga pagsubok at paghihiwalay sa taong mahal niya, pinanatili niya ang kanyang dangal at paninindigan.
-- **Bakit paborito:** Ipinakita niya na ang pagiging mahinahon ay hindi kahinaan — kaya niyang tumayo para sa sarili, sa kanyang mga mahal sa buhay, at sa katotohanan kahit na mahirap ang sitwasyon. 💛
-
----
-
-### ✨ Iba pang mga tauhan:
-- **Crisostomo Ibarra** — ang matapang na nag-aral sa ibang bansa at gustong magbago
-- **Klay** — ang makabagong kabataan na nakapasok sa nakaraan at natuto ng tunay na kasaysayan
-- **Padre Damaso** — ang mapang-abusong prayle na naging hadlang sa pag-ibig nina Maria Clara at Ibarra
-
----
-
-> "Ang dangal ay hindi nabibili, at hindi rin ito nakukuha sa takot." — Maria Clara
+[Learn more on Wikipedia](https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron)
+ 
